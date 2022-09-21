@@ -151,6 +151,15 @@
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/2a851093-c2ae-47d6-a077-82f3f946c61b"
       (reference "#PWR033") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/4b8a5d68-3158-4cb3-85e8-97ff8bee69fb"
+      (reference "#PWR034") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/5761c0d5-d621-4bdc-a3b5-69563fdac787"
+      (reference "#PWR035") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/152c7423-1841-46f4-93af-7d1558d2c4ba"
+      (reference "#PWR036") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/3064363d-f6c5-452f-a8e1-931c68c1d1c5"
       (reference "#PWR0101") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -277,6 +286,9 @@
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/969e805b-f61e-483f-9562-ec1e5290c796"
       (reference "C21") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/22cb942e-dce1-4cee-a177-848d24593882"
+      (reference "C22") (unit 1) (value "1uF_10V") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/3bf6c4cb-12d1-495d-b55d-7f1619679ba0"
       (reference "C24") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -313,11 +325,17 @@
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/d9514bcf-e26b-47f5-8c69-4daf62d03d18"
       (reference "D3") (unit 1) (value "LED_RGBA") (footprint "LED_SMD:LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100")
     )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/92440c50-62d2-4a1c-a7dc-8c97200f1507"
+      (reference "D4") (unit 1) (value "SD05_SOD323") (footprint "Diode_SMD:D_SOD-323")
+    )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/6bafaffb-6213-4438-bca4-22789850e6cc"
       (reference "D6") (unit 1) (value "LED_Green") (footprint "LED_SMD:LED_0805_2012Metric")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/d536048c-c2f9-40c2-a256-4bb15056700e"
       (reference "D7") (unit 1) (value "LED_Green") (footprint "LED_SMD:LED_0805_2012Metric")
+    )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/61531d6a-4ec4-43e8-bf91-5e4d83144a60"
+      (reference "FL1") (unit 1) (value "DLM0NSN900HY2D") (footprint "DLM0NSN900HY2D:FIL_DLM0NSN900HY2D")
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/8d16786c-5319-478d-aaa0-2b1265cd99b9"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3")
@@ -340,8 +358,14 @@
     (path "/59094759-9e33-4851-86df-6ad755238ca4/46d5c0a4-5acc-45d9-bed8-80a83e14ef08"
       (reference "J3") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_JST:JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical")
     )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/644bbd24-d19c-4ac4-8536-811a45903237"
+      (reference "J4") (unit 1) (value "S4B-ZR-SM4A-TF(LF)(SN)") (footprint "S4B-ZR-SM4A-TF_LF__SN_:JST_S4B-ZR-SM4A-TF(LF)(SN)")
+    )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/18543e2b-7c5f-4f8e-918a-d78945d4a178"
       (reference "JP1") (unit 1) (value "20021521-00010T1LF") (footprint "20021521-00010T1LF:20021521-00010T1LF")
+    )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/531986ba-a2c9-4217-88da-f7da731d2999"
+      (reference "JP2") (unit 1) (value "SolderJumper_3_Bridged12") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm")
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/8c7d36c3-a5bc-4f1c-b1c5-932530379fbc"
       (reference "L1") (unit 1) (value "BLM18PG471SN1") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -411,6 +435,9 @@
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/ccc07f82-5e60-4e2d-aadf-fb91d07e529f"
       (reference "R19") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/9b3845cc-dc08-4620-acbc-4c534c383717"
+      (reference "R20") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/424c01b6-87e6-428d-8513-4973009ea118"
       (reference "R22") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0402_1005Metric")
