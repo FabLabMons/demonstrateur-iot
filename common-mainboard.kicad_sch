@@ -439,11 +439,17 @@
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/9b3845cc-dc08-4620-acbc-4c534c383717"
       (reference "R20") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/277311bb-ff9f-4a6e-9cb5-34a5d0e9cdfa"
+      (reference "R21") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/424c01b6-87e6-428d-8513-4973009ea118"
       (reference "R22") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/a9d59956-e934-4c77-8bfa-83571011431c"
       (reference "R23") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/37183442-a1b9-4e7d-acfb-c5745df7e136"
+      (reference "R24") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/e9b59b1c-91eb-4c9d-bef0-4696c9605fc6"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_CK_KXT3")
