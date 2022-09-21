@@ -466,6 +466,9 @@
     (path "/59094759-9e33-4851-86df-6ad755238ca4/36c2822c-7cd4-490a-bcf6-d7a48365d923"
       (reference "TP3") (unit 1) (value "VBAT") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
+    (path "/59094759-9e33-4851-86df-6ad755238ca4/eda4f3fb-b8f1-4be6-bba2-9c4915e96ad7"
+      (reference "TP4") (unit 1) (value "VDD_EXT") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/b1ab4ee9-5500-47c9-a838-67efb22fd46a"
       (reference "TP5") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
