@@ -540,7 +540,6 @@
     )
   )
 
-
   (junction (at 149.86 43.18) (diameter 0) (color 0 0 0 0)
     (uuid 04b7fe52-e55f-4a27-9628-040c6cf1c000)
   )
@@ -1050,7 +1049,7 @@
     (property "Value" "1000pF" (id 1) (at 167.64 39.3762 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 165.1 38.1 0)
+    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 165.1 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 165.1 38.1 0)
@@ -1299,7 +1298,7 @@
     (property "Reference" "C34" (id 0) (at 204.47 29.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1uF" (id 1) (at 204.47 31.7562 0)
+    (property "Value" "10uF" (id 1) (at 204.47 31.7562 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 201.93 30.48 0)

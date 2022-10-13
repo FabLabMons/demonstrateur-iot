@@ -332,13 +332,13 @@
       (reference "C31") (unit 1) (value "33pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/121703ac-5bc0-4ab1-b06f-01455468bac3"
-      (reference "C32") (unit 1) (value "1000pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C32") (unit 1) (value "1000pF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/84101b22-0a96-483f-9935-dad00f833b34"
       (reference "C33") (unit 1) (value "33pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/74474532-3878-42d5-a995-f3d8360ec021"
-      (reference "C34") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C34") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/e57bd45e-f145-49a7-b6c3-30e751a623ee"
       (reference "D1") (unit 1) (value "ESDA6V1-5SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
