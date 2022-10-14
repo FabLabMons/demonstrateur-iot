@@ -1,4 +1,11 @@
-20122243518633190
+20135508767266614
+20021521-00010T1LF
+20021521-00010T1LF
+
+
+0
+10
+10
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2365,6 +2372,20 @@ speaker CUI
 0
 2
 2
+Buzzer_Beeper
+XDCR_CMT-0525-75-SMT-TR
+
+
+0
+3
+3
+CMT-0525-75-SMT-TR
+XDCR_CMT-0525-75-SMT-TR
+
+
+0
+3
+3
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -50161,6 +50182,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DLM0NSN900HY2D
+FIL_DLM0NSN900HY2D
+
+
+0
+4
+4
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -78616,6 +78644,20 @@ rotary encoder
 0
 5
 4
+S4B-ZR-SM4A-TF_LF__SN_
+JST_S4B-ZR-SM4A-TF(LF)(SN)
+
+
+0
+6
+6
+S6B-ZR-SM4A-TF_LF__SN_
+JST_S6B-ZR-SM4A-TF(LF)(SN)
+
+
+0
+8
+8
 SIM808
 XCVR_SIM808
 
@@ -84860,6 +84902,13 @@ igbt diode module
 0
 25
 25
+USB4110-GF-A_REVB
+GCT_USB4110-GF-A_REVB
+
+
+0
+16
+16
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -85630,6 +85679,13 @@ varistor SIOV
 0
 2
 2
+logos
+logo-click
+
+
+0
+0
+0
 quectel-lib
 _AD LIB_EG915U.PcbLib_EG915U
 
