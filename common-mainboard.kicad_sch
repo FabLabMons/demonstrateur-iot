@@ -272,7 +272,7 @@
       (reference "C11") (unit 1) (value "2.2uF 6.3V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/e7b22077-f676-479a-9899-a8c330efa64c"
-      (reference "C12") (unit 1) (value "100uF 10V") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C12") (unit 1) (value "100uF 10V") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/c450f65e-b012-4f22-a73f-1eab987db78d"
       (reference "C13") (unit 1) (value "100nF_16V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -284,7 +284,7 @@
       (reference "C15") (unit 1) (value "10pF_50V") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/1a33525b-dc7c-4a67-b37f-92ba780e954b"
-      (reference "C16") (unit 1) (value "100uF 10V") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C16") (unit 1) (value "100uF 10V") (footprint "Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/4b09e602-8f01-405f-b1bd-2cb8446b6f80"
       (reference "C17") (unit 1) (value "100nF_16V") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -332,7 +332,7 @@
       (reference "C31") (unit 1) (value "33pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/121703ac-5bc0-4ab1-b06f-01455468bac3"
-      (reference "C32") (unit 1) (value "1000pF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C32") (unit 1) (value "1000pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/84101b22-0a96-483f-9935-dad00f833b34"
       (reference "C33") (unit 1) (value "33pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -344,13 +344,13 @@
       (reference "D1") (unit 1) (value "ESDA6V1-5SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/e6fb63ea-e35c-400c-a5e5-b9d0c429975e"
-      (reference "D2") (unit 1) (value "4V7 2kW TVS") (footprint "Diode_SMD:D_SOD-323")
+      (reference "D2") (unit 1) (value "4V7 2kW TVS") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/d9514bcf-e26b-47f5-8c69-4daf62d03d18"
       (reference "D3") (unit 1) (value "LED_RGBA") (footprint "LED_SMD:LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/92440c50-62d2-4a1c-a7dc-8c97200f1507"
-      (reference "D4") (unit 1) (value "SD05_SOD323") (footprint "Diode_SMD:D_SOD-323")
+      (reference "D4") (unit 1) (value "SD05_SOD323") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/6bafaffb-6213-4438-bca4-22789850e6cc"
       (reference "D6") (unit 1) (value "LED_Green") (footprint "LED_SMD:LED_0805_2012Metric")
@@ -437,7 +437,7 @@
       (reference "R9") (unit 1) (value "120k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/a0b79eaa-9d01-4a0a-86b4-51b89a2eb81d"
-      (reference "R10") (unit 1) (value "33m") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R10") (unit 1) (value "33m") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/3edde583-8c85-4525-9580-93ba3cfba462"
       (reference "R11") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -446,7 +446,7 @@
       (reference "R12") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/a9740958-d40f-4002-a2a7-11a45fba195d"
-      (reference "R13") (unit 1) (value "165k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R13") (unit 1) (value "165k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/77fe847b-1f2d-43d0-9c6f-94a79a927e0a"
       (reference "R14") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -491,10 +491,10 @@
       (reference "R27") (unit 1) (value "51k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/e9b59b1c-91eb-4c9d-bef0-4696c9605fc6"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_CK_KXT3")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/06c95120-bc2e-49f3-be6a-8445516c579d"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_CK_KXT3")
+      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/26cd184b-39d1-4f2f-a76a-6f8026b945a0"
       (reference "TP1") (unit 1) (value "+3V3") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
@@ -518,16 +518,16 @@
       (reference "U2") (unit 1) (value "TXS0108EPW") (footprint "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/89247482-8b3e-43aa-9bf8-11044232e827"
-      (reference "U3") (unit 1) (value "EG915U") (footprint "quectel-lib:_AD LIB_EG915U.PcbLib_EG915U")
+      (reference "U3") (unit 1) (value "EG915U") (footprint "EG91EXGA-128-SGNS:XCVR_EG91EXGA-128-SGNS")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/1d0cc47c-836c-4bee-a3e9-37896e6acc39"
-      (reference "U3") (unit 2) (value "EG915U") (footprint "quectel-lib:_AD LIB_EG915U.PcbLib_EG915U")
+      (reference "U3") (unit 2) (value "EG915U") (footprint "EG91EXGA-128-SGNS:XCVR_EG91EXGA-128-SGNS")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/708b7da3-5b97-4e8c-b8d6-63480783e5b1"
-      (reference "U3") (unit 3) (value "EG915U") (footprint "quectel-lib:_AD LIB_EG915U.PcbLib_EG915U")
+      (reference "U3") (unit 3) (value "EG915U") (footprint "EG91EXGA-128-SGNS:XCVR_EG91EXGA-128-SGNS")
     )
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/29959695-e2f7-4146-b6ec-ee67f0fa9640"
-      (reference "U3") (unit 4) (value "EG915U") (footprint "quectel-lib:_AD LIB_EG915U.PcbLib_EG915U")
+      (reference "U3") (unit 4) (value "EG915U") (footprint "EG91EXGA-128-SGNS:XCVR_EG91EXGA-128-SGNS")
     )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/ec64d090-db21-4085-90e1-b8a06f631eb9"
       (reference "U4") (unit 1) (value "MIC5528") (footprint "Package_DFN_QFN:DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack")
