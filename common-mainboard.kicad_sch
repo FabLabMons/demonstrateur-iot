@@ -217,6 +217,9 @@
     (path "/19d18fe3-2819-44c7-8857-93589d01c27c/faa69478-ad60-49a9-8f02-cd69d9bfe206"
       (reference "#PWR0114") (unit 1) (value "GNDREF") (footprint "")
     )
+    (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/54b8bbff-a645-49f8-859c-5b0e994d1e58"
+      (reference "#PWR0115") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/59094759-9e33-4851-86df-6ad755238ca4/cf920ed2-bec4-4c24-9a00-9d47bd0dbf4d"
       (reference "#PWR0116") (unit 1) (value "GNDREF") (footprint "")
     )
@@ -390,6 +393,9 @@
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/1a622bb9-7aee-4243-b4ab-f317a8bc32ff"
       (reference "J6") (unit 1) (value "S6B-ZR-SM4A-TF(LF)(SN)") (footprint "S6B-ZR-SM4A-TF_LF__SN_:JST_S6B-ZR-SM4A-TF(LF)(SN)")
+    )
+    (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/0a3d5f0d-9dd3-4d13-b1a2-971ad3066953"
+      (reference "J7") (unit 1) (value "Conn_02x10_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
     )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/18543e2b-7c5f-4f8e-918a-d78945d4a178"
       (reference "JP1") (unit 1) (value "20021521-00010T1LF") (footprint "20021521-00010T1LF:20021521-00010T1LF")
