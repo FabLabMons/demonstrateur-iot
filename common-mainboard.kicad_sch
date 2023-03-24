@@ -517,6 +517,12 @@
     (path "/59094759-9e33-4851-86df-6ad755238ca4/b1ab4ee9-5500-47c9-a838-67efb22fd46a"
       (reference "TP5") (unit 1) (value "GND") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
     )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/d04e2883-51ee-4ef0-93e6-204c98d44f20"
+      (reference "TP6") (unit 1) (value "DCE_TX") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
+    (path "/19d18fe3-2819-44c7-8857-93589d01c27c/4efc3ce2-66fd-4797-a2b2-ec87b68d13f0"
+      (reference "TP7") (unit 1) (value "DCE_RX") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
+    )
     (path "/6775d502-c047-4ea5-9a55-c29f79ba0a2b/0bcdb9e6-995c-4d87-b830-caa47d4cdaea"
       (reference "U1") (unit 1) (value "ATSAMD21J18A-M") (footprint "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm")
     )
